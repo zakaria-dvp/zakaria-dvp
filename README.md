@@ -1,6 +1,6 @@
 <h3>Hi 👋! My name is zakaria. and I'm a developer, from Morocco</h3>
 <div align="center" style="text-align: center;">
- w7uk0eP2j0gXtraR&ust=1699884284952000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjh2MrQvoIDFQAAAAAdAAAAABAE" height="150" alt="streak graph" style="border-radius: 50%;" />
+ 
 </div>
 
 <div align="center">
