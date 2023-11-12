@@ -1,12 +1,12 @@
-<h3>Hi 👋! My name is zakaria. and I'm a Student at bacalaureat, from Morocco</h3>
+<h3>Hi 👋! My name is zakaria. and I'm a developer, from Morocco</h3>
 <div align="center" style="text-align: center;">
     <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fhacker-naming-schemes-spandex-tempest%2F&psig=AOvVaw2F8pn-w7uk0eP2j0gXtraR&ust=1699884284952000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjh2MrQvoIDFQAAAAAdAAAAABAE" height="150" alt="streak graph" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamilobt8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakaria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=yamilobt8&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilobt8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt "languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt "languages graph"  />
 </div>
 
 
